@@ -1,0 +1,37 @@
+{"favorite": [
+    {
+        "review": "I love it!",
+        "name": "Hello World",
+        "rating": 5
+    },
+    {
+        "review": "Not published yet",
+        "name": "Get Back",
+        "rating": 5
+    },
+    {
+        "review": "Touching.",
+        "name": "Lalaland",
+        "rating": 4
+    },
+    {
+        "review": "Cartoon work",
+        "name": "Adventure Time",
+        "rating": 3
+    },
+    {
+        "review": "Not my type",
+        "name": "One Day",
+        "rating": 2
+    },
+    {
+        "review": "Great!",
+        "name": "COCO",
+        "rating": 5
+    },
+    {
+        "review": "beautiful",
+        "name": "Frozen",
+        "rating": 4
+    }
+]}

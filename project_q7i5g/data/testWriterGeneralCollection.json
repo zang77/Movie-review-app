@@ -1,0 +1,12 @@
+{"favorite": [
+    {
+        "review": "Bad movie",
+        "name": "One",
+        "rating": 1
+    },
+    {
+        "review": "Not bad",
+        "name": "Big bang",
+        "rating": 3
+    }
+]}
